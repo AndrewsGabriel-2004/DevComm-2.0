@@ -1,5 +1,5 @@
 function Home () {
-    return <h1>Andrews é um mlk muito daora</h1>
+    return <h1>DevComm is my personal project focus on replicanting Tab News</h1>
 }
 
 export default Home;
